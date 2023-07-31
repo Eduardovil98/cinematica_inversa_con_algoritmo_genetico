@@ -472,7 +472,7 @@ se muestra en la siguiente expresión:`</span>`{=html}
 
 ```{=html}
 <div>
-<img src="./Images/Ruleta.png" width="600">
+<img src=".Images/Crossover.png" width="600">
 </div>
 ```
 ​`<center>`{=html} Eecuación para seleccionar al individuo mediante el
