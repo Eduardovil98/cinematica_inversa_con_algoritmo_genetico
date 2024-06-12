@@ -13,7 +13,7 @@ He estado trabajando en un proyecto sobre cinemática inversa utilizando algorit
 En este repositorio encontrarán:
 
 - Código fuente del proyecto.
-- Documentación detallada del proceso y métodos utilizados.
+- Documentación detallada del proceso y métodos utilizados dentro del notebook.
 - Ejemplos de simulaciones que muestran el desempeño del algoritmo.
 
 ## Contacto
